@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/base:3.7
+FROM quay.io/vektorcloud/base:3.9
 
 ENV HUGO_VERSION 0.19
 
